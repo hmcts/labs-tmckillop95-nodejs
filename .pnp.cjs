@@ -86,6 +86,7 @@ const RAW_RUNTIME_STATE =
           ["jest", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:29.7.0"],\
           ["jest-html-reporter", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:3.10.2"],\
           ["jest-junit", "npm:16.0.0"],\
+          ["jest-util", "npm:29.7.0"],\
           ["jquery", "npm:3.7.1"],\
           ["lint-staged", "npm:13.3.0"],\
           ["lodash", "npm:4.18.1"],\
@@ -6532,6 +6533,7 @@ const RAW_RUNTIME_STATE =
           ["jest", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:29.7.0"],\
           ["jest-html-reporter", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:3.10.2"],\
           ["jest-junit", "npm:16.0.0"],\
+          ["jest-util", "npm:29.7.0"],\
           ["jquery", "npm:3.7.1"],\
           ["lint-staged", "npm:13.3.0"],\
           ["lodash", "npm:4.18.1"],\
@@ -19561,7 +19563,7 @@ const RAW_RUNTIME_STATE =
           ["fast-json-stable-stringify", "npm:2.1.0"],\
           ["handlebars", "npm:4.7.9"],\
           ["jest", "virtual:0fe8ae6be068d2f30e6e1c4ad9d0c715db41428fa3e9a2c42a5aa8d93fba288315271172dae737de2f4d34a9b38ebab987b8667f4cbf6aa1a2f33cbd30fb6c1b#npm:29.7.0"],\
-          ["jest-util", null],\
+          ["jest-util", "npm:29.7.0"],\
           ["json5", "npm:2.2.3"],\
           ["lodash.memoize", "npm:4.1.2"],\
           ["make-error", "npm:1.3.6"],\
