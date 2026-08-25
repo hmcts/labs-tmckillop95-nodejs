@@ -2,7 +2,7 @@ nodejs:
   applicationPort: 8080
   aadIdentityName: labs
   ingressHost: labs-tmckillop95-nodejs.{{ .Values.global.environment }}.platform.hmcts.net
-  image: 'hmctspublic.azurecr.io/labs/tmckillop95-nodejs:latest'
+  image: 'hmctssbox.azurecr.io/labs/tmckillop95-nodejs:latest'
   #  Uncomment once the vault containing the app insights key has been set up
   #  keyVaults:
   #    labs:
